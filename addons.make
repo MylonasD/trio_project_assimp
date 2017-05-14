@@ -1,0 +1,10 @@
+ofxAssimpModelLoader
+ofxGui
+ofxMSACore
+ofxMSAFluid
+ofxMSAInteractiveObject
+ofxOpenCv
+ofxOsc
+ofxSimpleGuiToo
+ofxTuio
+ofxXmlSettings
